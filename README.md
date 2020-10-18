@@ -19,6 +19,12 @@ It is mainly deals with three operations:
 6.If users pick the option 2 about square root of number then it asks User to enter a Number.
 7.After it evaluate the number and give the square root of number. 
 8.If users pick the otion 3 to end chat then it Thankful User. 
-9.Finally Ends chat....when User choose to end chat.
+9.Finally Ends chat....when User choose to end chatbot.
 
+Block Diagram image:
+https://drive.google.com/file/d/1ml5gSiitesQjXG-OiJ8ftmLjJQX9hQfi/view?usp=sharing
 
+Finally,
+
+Festival Chatbot demo video:
+https://youtu.be/vtMemG4A1NQ
