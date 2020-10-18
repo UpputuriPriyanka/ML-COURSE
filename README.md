@@ -28,3 +28,7 @@ Finally,
 
 Festival Chatbot demo video:
 https://youtu.be/vtMemG4A1NQ
+
+CONCLUSION:
+In the Conclusion we can say that our bot gives information to find holidays in a month in the year 2020 to save peoples time.
+
